@@ -16,7 +16,7 @@ public class EnderecoEntity {
     private String id;
     private String usuarioId;
     private String rua;
-    private String numero;
+    private Long numero;
     private String bairro;
     private String complemento;
     private String cidade;
